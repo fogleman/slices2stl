@@ -15,7 +15,7 @@ import (
 const (
 	xyScale     = 1
 	zScale      = 1
-	zStretch    = 10
+	zStretch    = 2
 	mcThreshold = 0.5
 )
 
